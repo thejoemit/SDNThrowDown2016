@@ -1,3 +1,5 @@
+// by: Joseph Mitchell licensed under CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
+// Visualisation by Cytoscape.js & Layout by Cola.js
 var cy;
 $(function(){
 			var	$window = $(window),
