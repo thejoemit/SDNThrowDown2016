@@ -1,3 +1,5 @@
+# by: Joseph Mitchell licensed under CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
+# Scrapper and Parser from Juniper NorthStar Controller API and Telemetric Redis Database
 require 'uri'
 require 'net/http'
 require 'openssl'
